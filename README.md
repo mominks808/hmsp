@@ -4,16 +4,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Features:
 
-1. ManageRoom
-2. RoomList
-3. BedsInRoom
-4. ManageBedsInRoom
-5. ManageCandidate
-6. ManageCategories
-7. SearchRoomBasic
-8. SearcgAdvance
-9. RoomAllocation
-10. BillingAndTracking
+1. ManageRoom -- FrontDesk
+2. RoomList -- FrontDesk
+3. BedsInRoom -- FrontDesk
+4. ManageBedsInRoom -- Admin
+5. ManageCandidate -- FrontDesk
+6. ManageCategories -- Admin
+7. SearchRoomBasic -- FrontDesk
+8. SearcgAdvance -- FrontDesk
+9. RoomAllocation -- FrontDesk
+10. BillingAndTracking -- Admin
+11. Login -- Any
+12. SignUp -- Any
 
 ## Available Scripts
 
