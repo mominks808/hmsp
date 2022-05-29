@@ -2,6 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Features:
+
+1. ManageRoom
+2. RoomList
+3. BedsInRoom
+4. ManageBedsInRoom
+5. ManageCandidate
+6. ManageCategories
+7. SearchRoomBasic
+8. SearcgAdvance
+9. RoomAllocation
+10. BillingAndTracking
+
 ## Available Scripts
 
 In the project directory, you can run:
