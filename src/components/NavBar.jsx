@@ -5,7 +5,7 @@ import { Grid, Card, CardContent } from "@mui/material";
 export const NavBar = () => {
   return (
     <React.Fragment>
-      <Grid container>
+      <Grid container spacing={1}>
         <Grid item xs={4}>
           <Card>
             <CardContent>Logo</CardContent>

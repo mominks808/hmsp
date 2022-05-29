@@ -5,6 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Features:
 
 1. ManageRoom -- FrontDesk
+   a. AddRoom
+   b. RemoveRoom --- H.W
+   c. MaintainanceOfRoom -- H.W
 2. RoomList -- FrontDesk
 3. BedsInRoom -- FrontDesk
 4. ManageBedsInRoom -- Admin
