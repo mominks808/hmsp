@@ -7,6 +7,7 @@ import { Login } from "./components/Login";
 import { SignUp } from "./components/SignUp";
 import { NavBar } from "./components/NavBar";
 import { ManageRoom } from "./components/ManageRoom";
+import { RoomList } from "./components/RoomList";
 import "./components/common.css";
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
         <NavBar />
         <Routes>
           <Route path="/admin" element={<Admin />} />
+          <Route path="/frontdesk/roomlist" element={<RoomList />} />
           <Route path="/frontdesk/manageroom" element={<ManageRoom />} />
           <Route path="/frontdesk" element={<FrontDesk />} />
           <Route path="/login" element={<Login />} />

@@ -14,6 +14,13 @@ export const FrontDesk = () => {
             </CardContent>
           </Card>
         </Grid>
+        <Grid item xs={4}>
+          <Card>
+            <CardContent>
+              <Link to="/frontdesk/roomlist">Room List</Link>
+            </CardContent>
+          </Card>
+        </Grid>
       </Grid>
     </div>
   );

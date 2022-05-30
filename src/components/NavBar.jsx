@@ -6,9 +6,13 @@ export const NavBar = () => {
   return (
     <React.Fragment>
       <Grid container spacing={1}>
-        <Grid item xs={4}>
+        <Grid item xs={2}>
           <Card>
-            <CardContent>Logo</CardContent>
+            <img
+              className="imglogo"
+              src="images/PickupBizHostelLogo.png"
+              alt="PickupBiz"
+            />
           </Card>
         </Grid>
         <Grid item xs={2}>
