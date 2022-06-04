@@ -32,6 +32,13 @@ export const NavBar = () => {
         <Grid item xs={2}>
           <Card>
             <CardContent>
+              <Link to="/eshopp">e-Shopp</Link>
+            </CardContent>
+          </Card>
+        </Grid>
+        <Grid item xs={2}>
+          <Card>
+            <CardContent>
               <Link to="/login">Login</Link>
             </CardContent>
           </Card>

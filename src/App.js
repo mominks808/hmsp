@@ -8,6 +8,7 @@ import { SignUp } from "./components/SignUp";
 import { NavBar } from "./components/NavBar";
 import { ManageRoom } from "./components/ManageRoom";
 import { RoomList } from "./components/RoomList";
+import { Eshopp } from "./components/Eshopp";
 import "./components/common.css";
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
           <Route path="/frontdesk" element={<FrontDesk />} />
           <Route path="/login" element={<Login />} />
           <Route path="/signup" element={<SignUp />} />
+          <Route path="/eshopp" element={<Eshopp />} />
           <Route path="/" element={<Home />} />
         </Routes>
       </BrowserRouter>
